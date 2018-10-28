@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'
   s.summary          = 'AVFExtensions is extensions pod.'
   s.description      = 'AVFExtensions is extensions pod which contains UIImage, UIView, Sring, Float, Double extensions'
+
   s.homepage         = 'https://github.com/VodafoneEgypt/VFExtensions'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'VodafoneEgypt' => 'egypt.apps@vodafone.com' }
