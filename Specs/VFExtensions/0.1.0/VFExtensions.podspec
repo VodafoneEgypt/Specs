@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author           = { 'VodafoneEgypt' => 'egypt.apps@vodafone.com' }
   s.source           = { :git => 'https://github.com/VodafoneEgypt/VFExtensions.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '9.0'
   s.source_files = 'VFExtensions/Classes/**/*.{swift}'
   
   s.dependency 'Languagehandlerpod'
